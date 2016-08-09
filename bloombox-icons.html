@@ -1,13 +1,20 @@
 
 <!--
-`<bloombox-icons>` provides a set of tailor-made SVG icons for Bloombox.
+`<bloombox-icons>` is a pseudo element that provides sets of SVG icons custom-built for Bloombox.
+Currently, the provided iconsets are as follows:
+  - `bloombox`: Main icon set. Includes basic UI icons.
 
-See demo page for icon examples.
+To use an icon from one of these sets, first prefix your `iron-icon` with the icon set name, followed by a colon, ":", and then the icon id.
+
+Example using the directions-bus icon from the maps icon set:
+    <iron-icon icon="bloombox:sativa-circle"></iron-icon>
+
+See [iron-icon](./iron-icon) for more information about working with icons.
+See [iron-iconset](./iron-iconset) and [iron-iconset-svg](./iron-iconset-svg) for more information about how to create a custom iconset.
 
 @group Bloombox Elements
-@element bloombox-icons
+@pseudoElement bloombox-icons
 @demo demo/index.html
-@homepage bloombox.github.io
 -->
 
 <link rel="import" href="../polymer/polymer.html">
