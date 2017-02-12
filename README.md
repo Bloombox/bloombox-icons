@@ -1,4 +1,6 @@
 
-##&lt;bloombox-icons&gt;  [![CircleCI](https://circleci.com/gh/Bloombox/bloombox-icons.svg?style=svg&circle-token=a4d8ca8213a463d6311341af71aace7537ce842c)](https://circleci.com/gh/Bloombox/bloombox-icons)
+##&lt;bloombox-icons&gt;  [![Build Status](https://buildbot.hq.mm-corp.systems/jenkins/buildStatus/icon?job=Bloombox/elements/bloombox-icons)](https://buildbot.hq.mm-corp.systems/jenkins/job/Bloombox/elements/bloombox-icons)
+
+[![Code Climate](https://codeclimate.com/repos/589ff40ad1fb290088000001/badges/273d363091a8d5fa59c0/gpa.svg)](https://codeclimate.com/repos/589ff40ad1fb290088000001/feed) [![Issue Count](https://codeclimate.com/repos/589ff40ad1fb290088000001/badges/273d363091a8d5fa59c0/issue_count.svg)](https://codeclimate.com/repos/589ff40ad1fb290088000001/feed)
 
 The `bloombox-icons` element provides a set of custom SVG icons tailor-made for Bloombox.
